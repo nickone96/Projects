@@ -1,0 +1,5 @@
+C:/ADDITIONAL_FILES/Embedded_Systems/Challenge/cmake-build-debug/CMakeFiles/Production.dir
+C:/ADDITIONAL_FILES/Embedded_Systems/Challenge/cmake-build-debug/CMakeFiles/Debug.dir
+C:/ADDITIONAL_FILES/Embedded_Systems/Challenge/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/ADDITIONAL_FILES/Embedded_Systems/Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ADDITIONAL_FILES/Embedded_Systems/Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
